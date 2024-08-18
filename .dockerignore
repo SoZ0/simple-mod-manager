@@ -1,0 +1,7 @@
+downloads
+output
+copy_exe.sh
+Dockerfile
+mods_parsed.csv
+Cargo.lock
+.gitignore
